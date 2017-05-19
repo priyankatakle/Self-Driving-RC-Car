@@ -42,7 +42,7 @@ Here is a video of us running the python file to start each motor. Notice how th
 
 ### May 10, 20
 
-Today we rebuild the car. This took a lot of troubleshooting and time, so we could not accomplish much today. The car is now ready to drive using our python script. We corrupted our first SD card so we will be using the one Bates provided us.
+Today we rebuilt the car. This took a lot of troubleshooting and time, so we could not accomplish much today. The car is now ready to drive using our python script. We corrupted our first SD card so we will be using the one Bates provided us.
 
 GPIO pins (for just the motors):
 
@@ -119,7 +119,7 @@ Tomorrow we will use OpenCV and the pi camera to recognize a printed stop sign o
 
 Today we finished installing OpenCV. While we were able to install OpenCV, we had trouble importing OpenCV from python in the shell. To fix this, we had to bind OpenCV to python using sudo apt-get install python-opencv. We spent the rest of the day working on the stop sign detection program. We are pulling code and files containing images of stop signs from the following link. 
 
-- [Linkl(https://github.com/mbasilyan/Stop-Sign-Detection)
+- (https://github.com/mbasilyan/Stop-Sign-Detection)
 
 
 
